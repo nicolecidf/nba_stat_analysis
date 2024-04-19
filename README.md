@@ -1,1 +1,1 @@
-NBA Stats analysis gathering data from their page. 
+Analyzing data from the NBA Player Stats page
